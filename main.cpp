@@ -8,10 +8,8 @@ int n, v[100],i;
 int main()
 {
     f>>n;
-
     for(i=0;i<n;i++)
         f>>v[i];
-    
     for(i=n-1;i>=0;i--)
         g<<v[i]<<" ";
     f.close();
