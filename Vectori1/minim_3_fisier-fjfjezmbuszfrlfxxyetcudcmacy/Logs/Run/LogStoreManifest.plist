@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8FB50B88-984A-49E4-BA84-0722CF0B936D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8FB50B88-984A-49E4-BA84-0722CF0B936D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>minim_3_fisier project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>minim_3_fisier</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run minim_3_fisier</string>
+			<key>timeStartedRecording</key>
+			<real>665262098.11292803</real>
+			<key>timeStoppedRecording</key>
+			<real>665262100.386935</real>
+			<key>title</key>
+			<string>Run minim_3_fisier</string>
+			<key>uniqueIdentifier</key>
+			<string>8FB50B88-984A-49E4-BA84-0722CF0B936D</string>
+		</dict>
+		<key>DA463E59-2752-480B-A08C-9B9427EC7EB8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DA463E59-2752-480B-A08C-9B9427EC7EB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>minim_3_fisier project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>minim_3_fisier</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run minim_3_fisier</string>
+			<key>timeStartedRecording</key>
+			<real>665262059.41710496</real>
+			<key>timeStoppedRecording</key>
+			<real>665262063.57471204</real>
+			<key>title</key>
+			<string>Run minim_3_fisier</string>
+			<key>uniqueIdentifier</key>
+			<string>DA463E59-2752-480B-A08C-9B9427EC7EB8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

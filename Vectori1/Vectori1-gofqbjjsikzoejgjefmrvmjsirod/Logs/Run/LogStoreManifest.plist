@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7C7E31A8-CA4F-4CC6-ABD1-235D8C014222</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7C7E31A8-CA4F-4CC6-ABD1-235D8C014222.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Vectori1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Vectori1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Vectori1</string>
+			<key>timeStartedRecording</key>
+			<real>665262520.98014605</real>
+			<key>timeStoppedRecording</key>
+			<real>665262522.37422097</real>
+			<key>title</key>
+			<string>Run Vectori1</string>
+			<key>uniqueIdentifier</key>
+			<string>7C7E31A8-CA4F-4CC6-ABD1-235D8C014222</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

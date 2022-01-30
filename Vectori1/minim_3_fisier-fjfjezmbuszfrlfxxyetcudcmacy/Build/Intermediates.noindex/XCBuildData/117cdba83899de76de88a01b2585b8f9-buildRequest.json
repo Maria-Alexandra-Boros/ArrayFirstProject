@@ -1,0 +1,51 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "b85b390948c71841cbd7e6603f0ff22cf41ba186fcdf01c854305958c61179d1"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/teodora/Documents/C++/XCode/Vectori1/Vectori1/minim_3_fisier-fjfjezmbuszfrlfxxyetcudcmacy/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/teodora/Documents/C++/XCode/Vectori1/Vectori1/minim_3_fisier-fjfjezmbuszfrlfxxyetcudcmacy/Build/Products",
+      "derivedDataPath" : "/Users/teodora/Documents/C++/XCode/Vectori1/Vectori1",
+      "indexDataStoreFolderPath" : "/Users/teodora/Documents/C++/XCode/Vectori1/Vectori1/minim_3_fisier-fjfjezmbuszfrlfxxyetcudcmacy/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/teodora/Documents/C++/XCode/Vectori1/Vectori1/minim_3_fisier-fjfjezmbuszfrlfxxyetcudcmacy/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/teodora/Documents/C++/XCode/Vectori1/Vectori1/minim_3_fisier-fjfjezmbuszfrlfxxyetcudcmacy/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
